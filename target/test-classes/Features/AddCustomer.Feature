@@ -1,6 +1,7 @@
 Feature: Adding customer details
   I want to use this template for my feature file
 
+
   Background: 
     Given User is in Telephone Home page
     And User clicks on add customer details
